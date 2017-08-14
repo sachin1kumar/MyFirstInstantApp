@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApp.iml" filepath="$PROJECT_DIR$/MyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secondfeature/Second-feature.iml" filepath="$PROJECT_DIR$/Secondfeature/Second-feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-feature/base-feature.iml" filepath="$PROJECT_DIR$/base-feature/base-feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstfeature/firstfeature.iml" filepath="$PROJECT_DIR$/firstfeature/firstfeature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instantapp/instantapp.iml" filepath="$PROJECT_DIR$/instantapp/instantapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/imapplication.iml" filepath="$PROJECT_DIR$/myapplication/imapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/second-feature/second-feature.iml" filepath="$PROJECT_DIR$/second-feature/second-feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondfeature2/secondfeature2.iml" filepath="$PROJECT_DIR$/secondfeature2/secondfeature2.iml" />
+    </modules>
+  </component>
+</project>

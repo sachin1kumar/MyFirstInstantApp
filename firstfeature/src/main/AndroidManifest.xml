@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sachin.myapp.ui">
+
+    <application>
+        <activity android:name="com.example.sachin.myapp.secondFeature.SecondActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:scheme="http"
+                    android:host="sachin.com"
+                    android:pathPattern="/second" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
