@@ -1,4 +1,4 @@
-package com.example.sachin.myapp.secondFeature;
+package com.example.sachin.myapp.firstFeature;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

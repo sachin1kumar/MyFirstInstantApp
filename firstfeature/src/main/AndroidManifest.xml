@@ -2,7 +2,7 @@
     package="com.example.sachin.myapp.ui">
 
     <application>
-        <activity android:name="com.example.sachin.myapp.secondFeature.SecondActivity">
+        <activity android:name="com.example.sachin.myapp.firstFeature.SecondActivity">
 
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
